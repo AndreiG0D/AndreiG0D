@@ -3,7 +3,7 @@
 <!--
 **AndreiG0D/AndreiG0D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### My name is Andrei, I'm 16 years old, I'm new to programming, my first application is the famous Brazilian language .LUA and I'm learning HTML, CSS and JS!
+My name is Andrei, I'm 16 years old, I'm new to programming, my first application is the famous Brazilian language .LUA and I'm learning HTML, CSS and JS!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
